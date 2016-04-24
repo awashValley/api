@@ -1,3 +1,9 @@
 
 [Sat 23April2016]. Creating an API-Centric Web Application;
   http://code.tutsplus.com/tutorials/creating-an-api-centric-web-application--net-23417
+  
+[Sun 24Apr2016]. OpenWeatherMap API Key;
+  http://openweathermap.org/appid
+  
+[Sun 24Apr2016]. Create a Weather App on Android;
+  http://code.tutsplus.com/tutorials/create-a-weather-app-on-android--cms-21587
