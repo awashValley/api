@@ -7,3 +7,6 @@
   
 [Sun 24Apr2016]. Create a Weather App on Android;
   http://code.tutsplus.com/tutorials/create-a-weather-app-on-android--cms-21587
+  
+[Sun 24Apr2016]. Getting started with World Weather Online API with PHP;
+  http://blog.worldweatheronline.com/2015/02/05/getting-started-world-weather-online-api-php/
